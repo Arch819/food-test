@@ -1,0 +1,48 @@
+:root {
+    --green-color: #bbf330;
+    --black-color: #2c2c2c;
+    --main-yellow: #ffe550;
+    --main-white: #ffffff;
+}
+
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+}
+
+ul {
+    margin: 0;
+    padding-left: 0;
+}
+
+button {
+    cursor: pointer;
+}
+
+address {
+    font-style: normal;
+}
+
+img {
+    display: block;
+}
+
+.list {
+    list-style: none;
+}
+
+.link {
+    text-decoration: none;
+}
+
+.container {
+    width: 1280px;
+    padding: 0 16px;
+    margin: 0 auto;
+
+}
